@@ -23,14 +23,13 @@ function App() {
     <Router>
     <div >
       <Routes>
-        <Route exact path="/" element={<Home/>} />
-        <Route exact path="/login" element={<Login/>} />
-        <Route exact path="/createuser" element={<Signup/>} />
-        <Route exact path="/myOrder" element={<MyOrder/>} />
-        <Route exact path='/Shampoo' element={<Shampoo/>}/>
-        <Route exact path='/Chips' element={<Chips/>}/>
-        <Route exact path='/Choclate' element={<Chocolate/>}/>
-
+        <Route exact path="/smart-basket-frontend/" element={<Home/>} />
+        <Route exact path="/smart-basket-frontend/login" element={<Login/>} />
+        <Route exact path="/smart-basket-frontend/createuser" element={<Signup/>} />
+        <Route exact path="/smart-basket-frontend/myOrder" element={<MyOrder/>} />
+        <Route exact path='/smart-basket-frontend/Shampoo' element={<Shampoo/>}/>
+        <Route exact path='/smart-basket-frontend/Chips' element={<Chips/>}/>
+        <Route exact path='/smart-basket-frontend/Choclate' element={<Chocolate/>}/>
       </Routes>
     </div>
     </Router>
