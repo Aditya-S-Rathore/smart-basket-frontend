@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/smart-basket-frontend/static/css/main.9c18f086.css",
-    "main.js": "/smart-basket-frontend/static/js/main.8a82d29c.js",
+    "main.js": "/smart-basket-frontend/static/js/main.27640959.js",
     "static/js/787.7fe0dfbc.chunk.js": "/smart-basket-frontend/static/js/787.7fe0dfbc.chunk.js",
     "static/media/logo.jpeg": "/smart-basket-frontend/static/media/logo.2862a988c47707aaaea3.jpeg",
     "index.html": "/smart-basket-frontend/index.html",
     "main.9c18f086.css.map": "/smart-basket-frontend/static/css/main.9c18f086.css.map",
-    "main.8a82d29c.js.map": "/smart-basket-frontend/static/js/main.8a82d29c.js.map",
+    "main.27640959.js.map": "/smart-basket-frontend/static/js/main.27640959.js.map",
     "787.7fe0dfbc.chunk.js.map": "/smart-basket-frontend/static/js/787.7fe0dfbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c18f086.css",
-    "static/js/main.8a82d29c.js"
+    "static/js/main.27640959.js"
   ]
 }
